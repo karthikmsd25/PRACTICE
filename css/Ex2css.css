@@ -1,0 +1,33 @@
+.head{
+    color: rgb(27, 48, 48);
+    text-shadow:2px 3px 5px blue;
+    letter-spacing:10px;
+    text-decoration:underline;
+}
+body{
+    text-align: center;
+    background-image:url('https://images.hdqwalls.com/download/my-alone-time-5k-ym-1920x1080.jpg');
+    background-size: cover;
+}
+.para{
+    font-weight: bold;
+    font-size: larger;
+    margin-left:33%;
+    width:500px ;
+    word-spacing: 5px;
+    line-height:1.5;
+    text-shadow: 2px 3px 3px pink;
+    text-transform: capitalize;
+    
+
+}
+
+.para1{
+    margin-left: 60%;
+    margin-top: 20%;
+    width:500px;
+    font-size: larger;
+    font-weight: lighter;
+    text-align: justify;
+    text-indent: 30px;
+}
